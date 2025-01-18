@@ -1,3 +1,10 @@
+*_ecc
+ca
+cert
+
 account.conf
 acme.sh.env
+acme.sh.log
 http.header
+
+acme.log
