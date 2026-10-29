@@ -4,8 +4,8 @@ dns_beget_info='Beget.com
 Site: Beget.com
 Docs: github.com/acmesh-official/acme.sh/wiki/dnsapi2#dns_beget
 Options:
- BEGET_User API user
- BEGET_Password API password
+ Beget_Username API user
+ Beget_Password API password
 Issues: github.com/acmesh-official/acme.sh/issues/6200
 Author: ARNik <arnik@arnik.ru>
 '
